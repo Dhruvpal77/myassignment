@@ -15,7 +15,7 @@
         <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
 		  <a class="navbar-brand" href="#">
 			<img src="main.jpg" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
-			GoodChef: Restaurant Menu 
+			DhruvStar: Restaurant Menu 
 		  </a>
 		</nav>
        
