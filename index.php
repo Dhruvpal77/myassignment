@@ -142,11 +142,7 @@
        
         
         
-        <footer class= "foota">
-		  © Details:
-				  <a href="mailto:skoul@mitaoe.ac.in">skoul@mitaoe.ac.in</a>
-		 
-		</footer>
+       
 		
 		<script src="jquery-3.5.1.min.js"></script>
 				
